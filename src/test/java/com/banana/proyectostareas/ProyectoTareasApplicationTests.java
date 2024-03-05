@@ -1,4 +1,4 @@
-package com.banana.proyectotareas.ProyectoTareas;
+package com.banana.proyectostareas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

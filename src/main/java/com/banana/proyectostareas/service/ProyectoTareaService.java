@@ -4,6 +4,7 @@ import com.banana.proyectostareas.exception.ProyectoNotfoundException;
 import com.banana.proyectostareas.exception.TareaNotfoundException;
 import com.banana.proyectostareas.model.Proyecto;
 import com.banana.proyectostareas.model.Tarea;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.List;
 

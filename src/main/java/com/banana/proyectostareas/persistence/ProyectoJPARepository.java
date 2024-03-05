@@ -3,6 +3,7 @@ package com.banana.proyectostareas.persistence;
 import com.banana.proyectostareas.model.Proyecto;
 import com.banana.proyectostareas.model.Tarea;
 
+
 import java.util.List;
 
 public interface ProyectoJPARepository {
